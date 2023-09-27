@@ -1,4 +1,4 @@
-﻿// My 3rd commit
+﻿// My third commit
 
 namespace Microsoft.eShopWeb.Web;
 
